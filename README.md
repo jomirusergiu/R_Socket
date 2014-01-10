@@ -40,6 +40,18 @@ someone stole the internet, please help
 Output Client Side
 -------------
 ```BASH
+RocKKs-iMac:Demo RocKK$ ./client 
+Socket created
+Connected
+
+Enter message : hi
+Server recieved message: hi
+
+Enter message : how are you?
+Server recieved message: how are you?
+
+Enter message : someone stole the internet, please help
+Server recieved message: someone stole the internet, please help
 ```
 
 
