@@ -24,6 +24,17 @@ $ gcc R_Server.c - o server
 Output Server Side
 -------------
 ```BASH
+RocKKs-iMac:Demo RocKK$ ./server
+Socket created
+Bind done
+Waiting for incoming connections...
+Connection accepted
+Handler assigned
+hi
+
+how are you?
+
+someone stole the internet, please help
 ```
 
 Output Client Side
