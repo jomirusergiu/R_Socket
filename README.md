@@ -18,7 +18,7 @@ Usage
 -------------
 ```BASH
 $ gcc R_Client.c -o client
-$ gcc R_Server.c - o server
+$ gcc R_Server.c -o server
 ```
 
 Output Server Side
